@@ -4,7 +4,7 @@
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
 
-Aplicación web en Django que consume la [Rick & Morty API](https://rickandmortyapi.com/) para explorar personajes de la serie.
+Trabajo práctico final de la materia **Introducción a la Programación**. Aplicación web en Django que consume la [Rick & Morty API](https://rickandmortyapi.com/) para explorar personajes de la serie.
 
 ## Funcionalidades
 
